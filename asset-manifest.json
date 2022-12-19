@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34f10203.css",
-    "main.js": "/static/js/main.e954eb8b.js",
+    "main.js": "/static/js/main.70ffc6ab.js",
     "static/media/heroImage.png": "/static/media/heroImage.5e37f6892f46c0ce506e.png",
     "static/media/SatyaPrakash_Singh_Resume.pdf": "/static/media/SatyaPrakash_Singh_Resume.ba47ef594da055aff92f.pdf",
     "static/media/Naukari.png": "/static/media/Naukari.4d5bdc0334abf44666c7.png",
@@ -14,10 +14,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.34f10203.css.map": "/static/css/main.34f10203.css.map",
-    "main.e954eb8b.js.map": "/static/js/main.e954eb8b.js.map"
+    "main.70ffc6ab.js.map": "/static/js/main.70ffc6ab.js.map"
   },
   "entrypoints": [
     "static/css/main.34f10203.css",
-    "static/js/main.e954eb8b.js"
+    "static/js/main.70ffc6ab.js"
   ]
 }
