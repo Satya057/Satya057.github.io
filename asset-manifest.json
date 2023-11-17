@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c382cd3.css",
+    "main.js": "/static/js/main.a4f2b1a6.js",
+    "static/media/profile.png": "/static/media/profile.82f5a6f85b396cae84f5.png",
+    "static/media/naukari.png": "/static/media/naukari.763df02f09b4d4e78e06.png",
+    "static/media/slide3.jpg": "/static/media/slide3.ef3d660a82935e9dd428.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/resume.pdf": "/static/media/resume.1c6a584f903709e9ee72.pdf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/slide2.jpg": "/static/media/slide2.61508ea87dc76960a14a.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/slide1.jpg": "/static/media/slide1.ce2fa051f8347f5452e5.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/zara.png": "/static/media/zara.5a4210f723c618165464.png",
+    "static/media/lumen5.png": "/static/media/lumen5.5f2182fe6360f3eda3fd.png",
+    "static/media/tripvilla.png": "/static/media/tripvilla.894bdf531a3a141ebdd6.png",
+    "static/media/mongodb.svg": "/static/media/mongodb.d89a6eebb2b81e487ffc99f69a3f6ea4.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.52cbf9a89f44655c0375b9e9f88bf9c5.svg",
+    "static/media/express.svg": "/static/media/express.75fff9be2f3b289ba7be1f43a08f7a4c.svg",
+    "static/media/netlify.svg": "/static/media/netlify.1d9cb9ac8675567b57b681d16931917d.svg",
+    "static/media/react.svg": "/static/media/react.add74742e9e8f8827f7fa666dca760db.svg",
+    "static/media/css3.svg": "/static/media/css3.e7a9de36d9335d92932e93eb3b32deb9.svg",
+    "static/media/heroku.svg": "/static/media/heroku.5c9b3c2c4d563edd293feab8ee023a1b.svg",
+    "static/media/redux.svg": "/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/javascript.svg": "/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/react-router.svg": "/static/media/react-router.a87b722746890c8dcd6e20f04b6d53cd.svg",
+    "static/media/github.svg": "/static/media/github.c66b3c5adf421e87b1c707ba58321163.svg",
+    "static/media/html-5.svg": "/static/media/html-5.821ba738922e8952e57422f7b8a20362.svg",
+    "static/media/git-icon.svg": "/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "index.html": "/index.html",
+    "static/media/material-ui-1.svg": "/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
+    "static/media/vercel.svg": "/static/media/vercel.c7601497a42f8804800988599277e84f.svg",
+    "main.9c382cd3.css.map": "/static/css/main.9c382cd3.css.map",
+    "main.a4f2b1a6.js.map": "/static/js/main.a4f2b1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c382cd3.css",
+    "static/js/main.a4f2b1a6.js"
+  ]
+}
