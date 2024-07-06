@@ -1,9 +1,4 @@
-
-<h3>Hello I am </h3>
-<h1>Kamal Kishor Rajput</h1>
-<p>This is repo of my portfolio.</p>
-<a href="https://portfolio.kamalkishor.in">See My Portfolio<a/>
-  <br/>
+ 
   
   <p>I am full Stack Web developer<p/>
   <p>Learning MERN Stack at Masai School Bengaluru, Karnataka<p/>
