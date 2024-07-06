@@ -1,0 +1,31 @@
+.theme-day-container {
+    color: black;
+    height: 75px;
+}
+
+.theme-box {
+    height: 25px;
+
+}
+
+.circle-chakra {
+    margin:auto;
+    height: 100%;
+    width: 25px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.one {
+    background-color: rgb(216, 82, 29);
+}
+
+.two {
+    background-color: white;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.three {
+    background-color: green;
+}
