@@ -25,12 +25,7 @@ const About = () => {
               <h3> Satyaprakash Singh</h3>
               <br />
               <p>
-              Full Stack Developer proficient in HTML, CSS, and JavaScript with
-experience in React.js, Node.js, and Express frameworks. Skilled in
-MongoDB and MySQL databases, Git/Github, and Visual Studio Code.
-Passionate about staying up-to-date with emerging technologies.
-Strong problem-solving skills and ability to work in a team environment.
-          </p>
+              As a Full Stack Developer and ServiceNow Developer Intern, I have a proven track record of creating innovative web solutions and business applications. I have hands-on experience in developing and maintaining diverse web-based tools using React, Node.js, and modern web technologies. My expertise extends to the ServiceNow platform, where I am currently expanding my skills in ITSM, HRSD, and CMDB modules. I have contributed to secure, scalable business solutions in fintech, health tech, and prop-tech while collaborating with agile teams to address complex business challenges. Passionate about leveraging technology to drive business results, I am committed to enhancing user engagement across various industries.         </p>
             </div>
           </Col>
         </Row>

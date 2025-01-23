@@ -25,12 +25,12 @@ const Contact = () => {
             </h5>
 
             <h5>
-              <a href="tel:7881101149" className="contact-me">
+              <a href="tel:7007067020" className="contact-me">
                 <span>
                   {" "}
                   <i className="fa fa-phone"></i>
                 </span>
-                <span>7881101149,7007067020</span>
+                <span>7007067020</span>
               </a>
             </h5>
           </Col>

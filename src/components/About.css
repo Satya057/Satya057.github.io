@@ -16,7 +16,9 @@ h1 {
 }
 .profile-image {
   width: 50%;
-  border: 1px solid grey;
+  border: 5px solid grey;
+  border-radius: 50%;
+  object-fit: cover;
 }
 @media (max-width: 768px) {
   .about-container {
@@ -26,4 +28,101 @@ h1 {
   h6 {
     margin-top: 10px;
   }
+  .profile-image {
+    width: 80%;
+  }
+}
+.experience-container {
+  background-color: #ffffff;
+  border: 1px solid #d1d1d1;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.experience-container h2 {
+  text-align: center;
+  color: #2a2460;
+  margin-bottom: 20px;
+}
+
+.experience-container h4 {
+  color: #2a2460;
+  margin-top: 15px;
+}
+
+.experience-container p {
+  font-weight: bold;
+}
+
+.experience-container ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.experience-container li {
+  margin-bottom: 10px;
+}
+
+.job-box {
+  background-color: #ffffff;
+  border: 1px solid #d1d1d1;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.job-box h4 {
+  color: #2a2460;
+  margin-top: 0;
+}
+
+.job-box p {
+  font-weight: bold;
+}
+
+.job-box ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.job-box li {
+  margin-bottom: 10px;
+}
+
+.tech-skills-container {
+  margin-top: 40px;
+  background-color: #007bff;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+.tech-skills-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.tech-column {
+  background-color: #0056b3;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  flex: 1;
+}
+
+.tech-column h4 {
+  text-align: center;
+}
+
+.tech-column ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.tech-column li {
+  text-align: center;
+  margin: 5px 0;
 }
