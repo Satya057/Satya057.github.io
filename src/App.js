@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Navbaar } from "./components/Navbaar"; // Navbar file
-import Experience from "./components/Experience"; // Experience file
+// import Experience from "./components/Experience"; // Experience file
 
 
 import "./App.css";
@@ -14,6 +14,7 @@ import { Title } from "./components/title-message/title-message.component";
 import { Footer } from "./components/footer/Footer";
 import { ThemeDay } from "./components/ThemeDay";
 import { GitStats } from "./components/GitStats";
+ import { Education } from "./components/Education";
 // import Experience from './components/Experience';
 
 
@@ -28,6 +29,7 @@ function App() {
       <About />
       {/* <Experience /> */}
       <Skills />
+      <Education />
       {/* <Experience /> */}
       <Projects />
       <GitStats/>

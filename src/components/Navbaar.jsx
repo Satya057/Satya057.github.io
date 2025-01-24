@@ -37,6 +37,7 @@ export const Navbaar = () => {
                 About
               </Nav.Link>
               <Nav.Link href="#skills">Skills</Nav.Link>
+              <Nav.Link href="#education">Education</Nav.Link>
               <Nav.Link href="#projects">Projects</Nav.Link>
               <Nav.Link eventKey={2} href="#contact">
                 Contact
