@@ -2,8 +2,27 @@ import { Navbar, Container, Nav } from "react-bootstrap";
 import "./Navbar.css";
 import "font-awesome/css/font-awesome.min.css";
 import { Button } from "react-bootstrap";
-import resume from "../assets/files/resume.pdf";
+
 export const Navbaar = () => {
+  const handleResumeClick = () => {
+    // First open in new tab
+    const viewUrl = "https://drive.google.com/file/d/1J3urmc02x3CArWNPchg1DbeChAQ-tzH5/view";
+    window.open(viewUrl, '_blank');
+
+    // Then trigger download
+    const fileId = "1J3urmc02x3CArWNPchg1DbeChAQ-tzH5";
+    const downloadUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
+    
+    setTimeout(() => {
+      const link = document.createElement('a');
+      link.href = downloadUrl;
+      link.setAttribute('download', 'Shubham_Resume.pdf');
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }, 1000); // Delay of 1 second before download starts
+  };
+
   return (
     <div className="navbar-container">
       <Navbar
@@ -17,15 +36,13 @@ export const Navbaar = () => {
       >
         <Container>
           <Navbar.Brand>
-            {/* Resume */}
             <Button
               className="m-2"
               variant="success"
-              href={"https://drive.google.com/file/d/1J3urmc02x3CArWNPchg1DbeChAQ-tzH5/view"}
-              target="_blank"
+              onClick={handleResumeClick}
             >
               Resume
-              <i className="fa fa-download"></i>
+              <i className="fa fa-download ms-2"></i>
             </Button>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
