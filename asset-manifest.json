@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9d3f2b9c.css",
-    "main.js": "/static/js/main.ab89cf8f.js",
+    "main.js": "/static/js/main.5f221a20.js",
     "static/media/profile.png": "/static/media/profile.82f5a6f85b396cae84f5.png",
     "static/media/naukari.png": "/static/media/naukari.763df02f09b4d4e78e06.png",
     "static/media/slide3.jpg": "/static/media/slide3.ef3d660a82935e9dd428.jpg",
@@ -9,7 +9,6 @@
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/slide2.jpg": "/static/media/slide2.61508ea87dc76960a14a.jpg",
-    "static/media/resume.pdf": "/static/media/resume.27dfc23b2e23b0468f35.pdf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/slide1.jpg": "/static/media/slide1.ce2fa051f8347f5452e5.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
@@ -33,10 +32,10 @@
     "static/media/material-ui-1.svg": "/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
     "static/media/vercel.svg": "/static/media/vercel.0d94e923424aa8a93432103a604aa0fb.svg",
     "main.9d3f2b9c.css.map": "/static/css/main.9d3f2b9c.css.map",
-    "main.ab89cf8f.js.map": "/static/js/main.ab89cf8f.js.map"
+    "main.5f221a20.js.map": "/static/js/main.5f221a20.js.map"
   },
   "entrypoints": [
     "static/css/main.9d3f2b9c.css",
-    "static/js/main.ab89cf8f.js"
+    "static/js/main.5f221a20.js"
   ]
 }
