@@ -16,21 +16,7 @@ import "./Project.css";
 export const Projects = () => {
   const project = {
     data: [
-      {
-        name: "Zara.com(Clone)",
-        desc: "The project includes the Landing page, Login and Signup page, Product pages for Men, Women, and Kids section. The project is truly interactive and functional with features such as Login validation, Sorting. ",
-        img: zara,
-        demoLink: "https://resonant-lily-7ac8fd.netlify.app/",
-        codeLink: "https://github.com/Sachin230498/fashion-shop",
-        techstack: [
-          "/icons/react.svg",
-          "/icons/css-3.svg",
-          "/icons/javascript.svg",
-          "/icons/npm.svg",
-          "/icons/bootstrap.svg",
-          "/icons/nodejs-icon.svg",
-        ],
-      },
+     
       {
         name: "trip-villas(Clone)",
         desc: "Tripvillas is one of Asia's largest Holiday Home Rental Companies. Browse your ideal vacation home from over 1350 holiday homes spread across 231 destinations.A collaborative project, built in 5 days by a team of 5 members.  ",
@@ -79,18 +65,22 @@ export const Projects = () => {
           "/icons/nodejs-icon.svg",
         ],
       },
-      // {
-      //   name: "Sugar Cosmetics Clone",
-      //   desc: "Sugar Cosmetics is an online marketplace that sells beauty products.  ",
-      //   img: sugercosmetics,
-      //   demoLink: "https://sugar-cosmetic.netlify.app/",
-      //   codeLink: "https://github.com/hrutugandha/Sugar_Cosmetics_Project.git",
-      //   techstack: [
-      //     "/icons/html-5.svg",
-      //     "/icons/css-3.svg",
-      //     "/icons/javascript.svg",
-      //   ],
-      // },
+      {
+        name: "Zara.com(Clone)",
+        desc: "The project includes the Landing page, Login and Signup page, Product pages for Men, Women, and Kids section. The project is truly interactive and functional with features such as Login validation, Sorting. ",
+        img: zara,
+        demoLink: "https://resonant-lily-7ac8fd.netlify.app/",
+        codeLink: "https://github.com/Sachin230498/fashion-shop",
+        techstack: [
+          "/icons/react.svg",
+          "/icons/css-3.svg",
+          "/icons/javascript.svg",
+          "/icons/npm.svg",
+          "/icons/bootstrap.svg",
+          "/icons/nodejs-icon.svg",
+        ],
+      },
+       
     ],
   };
   return (
